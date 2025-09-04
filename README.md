@@ -1,2 +1,18 @@
 # vikfern.github.io
 fall 2025
+# vikfern75_github.io-lab1
+lab 1
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Internet Technologies and Web Design</title>
+</head>
+<body>
+<p>im really into working out and lifting</p>
+<p>im a huge football fan and baseball fan. go bears and go whitesox
+</p>
+<P>this is my first year i transfered from devry university and moraine valley, i am seeking a mechanical engenieer major</P>
+</body>
+</html>
+
